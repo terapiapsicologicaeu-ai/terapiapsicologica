@@ -1,0 +1,47 @@
+<div class="blocco-hero">
+<h1 class="blocco-hero__titolo align-center">Sei stanco di sentirti bloccato?</h1>
+<p class="blocco-hero__sottotitolo"><br>Iniziare un percorso di aiuto è un atto di <strong>coraggio</strong>. Ti offro una psicoterapia scientificamente solida per superare i tuoi ostacoli emotivi e relazionali.</p>
+<div class="blocco-hero__cta align-center"><a href="#INTERNAL_LINK#/page/958" class="blocco-cta blocco-cta--highlight blocco-cta--large"> <strong>Definisci i Tuoi Obiettivi: Prenota il Colloquio Conoscitivo</strong> </a></div>
+</div>
+<section class="blocco-approccio">
+<div class="blocco-approccio__header">
+<h2 class="align-center subtitle-accent">APPROCCIO:</h2>
+<h2 class="align-center title-main">La Psicoterapia che Funziona con la Scienza</h2>
+</div>
+<div class="blocco-approccio__contenuto">
+<p>Il benessere non è questione di fortuna, ma di <strong>metodo</strong>. Troppo spesso, la terapia si concentra solo sulle parole. Qui, utilizziamo la credibilità della <strong><a href="#INTERNAL_LINK#/tag/3" target="_blank" rel="noopener noreferrer">ricerca neuroscientifica</a></strong> e della psicopatologia moderna per offrirti un intervento <strong>più preciso</strong> e personalizzato.</p>
+<div class="dropcap-container"><span class="dropcap-initial">T</span>
+<p class="dropcap-text">rasformiamo il <em>know-how</em> accademico in un percorso di cura concreto e mirato. La tua storia personale merita un approccio che comprenda a fondo i meccanismi del cervello legati a stress, traumi e blocchi emotivi, garantendo un cambiamento solido e duraturo.</p>
+</div>
+<p class="align-center"><img class="post__image blocco-approccio__immagine" src="file:///C:/Users/leo-j/Documents/Publii/sites/terapia-psicologica/input/media/posts/953/Immagine_stilizzata_e_minimale.jpg" alt="Immagine stilizzata e minimale che rappresenta la psicoterapia scientifica" width="1408" height="768"></p>
+</div>
+</section>
+<section class="blocco-servizi">
+<div class="blocco-servizi__header">
+<h2 class="align-center title-main main-color-text">I Nostri Servizi Principali</h2>
+</div>
+<div class="griglia-servizi">
+<div class="servizio-card card-highlight">
+<h3 class="servizio-card__titolo">Terapia Individuale: Per una Consapevolezza Profonda</h3>
+<p class="servizio-card__descrizione">Se stai affrontando ansia, depressione, bassa autostima o momenti di crisi esistenziale, la terapia individuale ti aiuta a ricostruire la tua trama narrativa e a sviluppare strategie efficaci per la <strong>ri-regolazione emotiva e comportamentale</strong>.</p>
+<div class="servizio-card__cta"><a href="#INTERNAL_LINK#/page/955" class="blocco-cta blocco-cta--highlight"><strong>Scopri i Servizi per l'Individuo</strong></a></div>
+</div>
+<div class="servizio-card card-success">
+<h3 class="servizio-card__titolo">Terapia di Coppia: Ricostruire Intesa e Comunicazione</h3>
+<p class="servizio-card__descrizione">Quando la relazione si blocca in cicli negativi e la comunicazione fallisce, il lavoro terapeutico offre uno spazio strutturato per de-escalare i conflitti, ricostruire la fiducia e imparare a vivere il legame in modo più costruttivo e soddisfacente.</p>
+<div class="servizio-card__cta"><a href="#INTERNAL_LINK#/page/956" class="blocco-cta blocco-cta--success"><strong>Scopri la Terapia per la Coppia</strong></a></div>
+</div>
+<div class="servizio-card card-info">
+<h3 class="servizio-card__titolo">Psicoterapia Online: Flessibilità Senza Perdere Efficacia</h3>
+<p class="servizio-card__descrizione">Un percorso flessibile e accessibile, ideale per chi viaggia o ha esigenze logistiche complesse. La ricerca clinica conferma l'efficacia del trattamento online, mantenendo gli stessi protocolli rigorosi e la totale riservatezza che trovi in studio.</p>
+<div class="servizio-card__cta"><a href="#INTERNAL_LINK#/page/957" class="blocco-cta blocco-cta--info"><strong>Dettagli su Online e Studio</strong></a></div>
+</div>
+</div>
+</section>
+<div class="blocco-cta-finale">
+<blockquote>
+<p><strong>Il Tuo Primo Passo: Non sei solo. Iniziamo a definire i tuoi obiettivi.</strong></p>
+<p>Molti potenziali clienti temono l'impegno a lungo termine. Per questo, il Colloquio Conoscitivo è pensato come un momento di valutazione reciproca e definizione dei confini.</p>
+</blockquote>
+<p class="align-center"><a href="#INTERNAL_LINK#/page/958" class="blocco-cta blocco-cta--large blocco-cta--highlight"> <strong>Inizia Ora: Prenota il Colloquio Conoscitivo</strong> </a></p>
+</div>

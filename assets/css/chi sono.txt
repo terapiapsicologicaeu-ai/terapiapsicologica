@@ -1,0 +1,54 @@
+<div class="blocco-hero">
+<h1 class="blocco-hero__titolo align-center">La Terapia che Funziona: Un Approccio Clinico Basato sulla Ricerca e sulle Neuroscienze.</h1>
+<p class="blocco-hero__sottotitolo"><strong>Non solo parole: scopri come la conoscenza scientifica modella un intervento terapeutico preciso e personalizzato per il tuo benessere.</strong></p>
+</div>
+<section class="blocco-approccio">
+<div class="blocco-approccio__header">
+<h2 class="align-center title-main">Il Metodo: Dalla Ricerca al Tuo Cambiamento</h2>
+</div>
+<div class="blocco-approccio__contenuto contenuto-formattato">
+<p>La nostra pratica clinica si fonda sull'integrazione tra la <strong>psicoterapia validata</strong> e le <strong><a href="#INTERNAL_LINK#/tag/3" target="_blank" rel="noopener noreferrer">ultime scoperte delle Neuroscienze</a></strong>. Questo approccio garantisce che l'intervento non sia generico, ma calibrato specificamente sul reale funzionamento del sistema nervoso e sulla tua storia personale.</p>
+<p class="align-center"><img class="post__image blocco-approccio__immagine" src="file:///C:/Users/leo-j/Documents/Publii/sites/terapia-psicologica/input/media/posts/954/_Diagramma_minimale_che_mostra.jpg" alt="Diagramma che mostra l'approccio scientifico" width="1408" height="768"></p>
+<ul>
+<li><strong>Non è un intervento solo verbale:</strong> È un processo scientificamente supportato che mira a influenzare la <strong>plasticità cerebrale</strong> e a modificare le tracce di memoria legate a crisi e traumi.</li>
+<li><strong>Cura più precisa e su misura:</strong> Le conoscenze sulla neurobiologia dell'attaccamento o sui meccanismi cognitivi ci permettono interventi <strong>personalizzati</strong>.</li>
+</ul>
+</div>
+</section>
+<section class="blocco-approccio">
+<h2 class="align-center title-main main-color-text">La Mia Formazione e l'Impegno Etico</h2>
+<div class="blocco-approccio__contenuto">
+<div class="servizio-card card-info">
+<p><strong>Credenziali e Specializzazione:</strong> Sono <strong>Laureato in Psicologia</strong> (ad indirizzo Clinico e di Comunità) presso l'Università degli Studi di Urbino nel Luglio del 2000. <strong>Iscritto all'Albo Professionale</strong> degli Psicologi della regione Marche (n° 912). Sono <strong>specializzato in Psicoterapia</strong> Familiare presso l'Istituto di Terapia Familiare di Ancona dove ho ottenuto l'<strong>abilitazione all'esercizio della psicoterapia</strong>. Esercito, da più di venti anni, la libera professione di Psicologo – Psicoterapeuta nello studio privato in <strong><a href="https://www.terapiapsicologica.eu/modulo-di-contatto.html">Via Roma, n. 87 Macerata</a></strong> e on line.</p>
+</div>
+</div>
+</section>
+<section class="blocco-servizi">
+<div class="blocco-servizi__header">
+<h2 class="align-center title-main">I Fondamenti Scientifici</h2>
+</div>
+<div class="blocco-approccio__contenuto">
+<p>L'alto <em>know-how</em> scientifico è il motore della mia pratica. La credibilità non è un optional, ma la base di ogni percorso terapeutico.</p>
+</div>
+<div class="griglia-servizi">
+<div class="servizio-card card-highlight">
+<h3 class="servizio-card__titolo"><a href="#INTERNAL_LINK#/tag/13" target="_blank" rel="noopener noreferrer">Ansia</a></h3>
+<p class="servizio-card__descrizione">Alcuni degli studi che hanno orientato il nostro approccio alla gestione dell'ansia e alla ri-regolazione dello stress. Questo garantisce che le tecniche che apprenderai siano basate sull'evidenza.</p>
+</div>
+<div class="servizio-card card-success">
+<h3 class="servizio-card__titolo"><a href="#INTERNAL_LINK#/tag/16" target="_blank" rel="noopener noreferrer">Disturbo post traumatico da Stress</a></h3>
+<p class="servizio-card__descrizione">Ricerche che dimostrano la solidità del metodo per la rielaborazione dei traumi, focalizzandosi sulla modifica delle tracce di memoria.</p>
+</div>
+<div class="servizio-card card-info">
+<h3 class="servizio-card__titolo"><a href="#INTERNAL_LINK#/tag/39" target="_blank" rel="noopener noreferrer">Personalità e attaccamento</a></h3>
+<p class="servizio-card__descrizione">Gli studi su personalità e attaccamento guidano la terapia di coppia, aiutando a comprendere i cicli relazionali negativi.</p>
+</div>
+</div>
+</section>
+<div class="blocco-cta-finale">
+<blockquote>
+<p><strong>Scegli un Percorso di Cura Preciso:</strong></p>
+<p>Se cerchi un terapeuta che utilizzi la solidità della scienza per un percorso <strong>realmente personalizzato</strong>, il passo successivo è conoscerci.</p>
+</blockquote>
+<p class="align-center"><a href="#INTERNAL_LINK#/page/958" class="blocco-cta blocco-cta--large"> <strong>Iniziamo la Valutazione: Prenota il Colloquio Conoscitivo</strong> </a></p>
+</div>

@@ -1,0 +1,33 @@
+<h1> </h1>
+<h1 class="align-center"><span style="color: #236fa1;">Terapia Individuale: Verso la Consapevolezza e il Cambiamento Solido.</span></h1>
+<p> </p>
+<p>Supera ansia, blocchi emotivi e insicurezze. Un percorso scientificamente supportato per risolvere i tuoi problemi concreti.</p>
+<hr>
+<h2> </h2>
+<h2 class="align-center">Mappare il Sintomo alla Soluzione</h2>
+<p><span class="dropcap">A</span>ffrontare la maggior parte dei disturbi psicologici richiede un approccio che sappia tradurre i sintomi quotidiani in obiettivi terapeutici raggiungibili. Non cerchi un nome clinico, ma la soluzione alla tua sensazione.</p>
+<hr>
+<h3> </h3>
+<h3><span style="color: #007bff;">1.</span> Gestione di Ansia e Stress Cronico</h3>
+<p>Se la preoccupazione costante, la difficoltà nel sonno o gli attacchi di panico limitano la tua vita, è il momento di intervenire.</p>
+<ul>
+<li><strong>A Cosa Serve:</strong> Aiuta a riconoscere e de-escalare i cicli di pensiero negativi.</li>
+<li><strong>Beneficio Promesso:</strong> Ri-regolazione del sistema nervoso e apprendimento di tecniche basate sull'evidenza.</li>
+</ul>
+<h3><span style="color: #007bff;">2.</span> Superamento di Depressione e Blocchi Emotivi</h3>
+<p>Perdita di interesse, umore basso persistente e scarsa autostima indicano la necessità di ricostruire il tuo senso di sé.</p>
+<ul>
+<li><strong>A Cosa Serve:</strong> Lavora sulla trama narrativa personale e sulla promozione dell'attivazione comportamentale.</li>
+<li><strong>Beneficio Promesso:</strong> Ritrovamento della motivazione e sviluppo di una relazione più sana con le proprie emozioni. </li>
+</ul>
+<h3><span style="color: #007bff;">3.</span> Difficoltà Relazionali e Autorealizzazione</h3>
+<p>Se insicurezza, conflitti lavorativi o evitamento sociale ti impediscono di vivere pienamente.</p>
+<ul>
+<li><strong>A Cosa Serve:</strong> Promuove l'esplorazione dell'identità e la gestione efficace delle dinamiche interpersonali.</li>
+<li><strong>Beneficio Promesso:</strong> Sviluppo di assertività e potenziamento dell'identità per il ritrovamento del senso di sé.</li>
+</ul>
+<hr>
+<blockquote>
+<p><strong>Pronto per Iniziare?</strong> La terapia è un <strong>percorso</strong> e un <strong>lavoro congiunto</strong>. Il Colloquio Conoscitivo è la tua garanzia di un percorso professionale e mirato.</p>
+</blockquote>
+<p class="msg msg--highlight align-center"><a href="#INTERNAL_LINK#/page/958"><strong>Definisci i Tuoi Obiettivi: Prenota il Colloquio Conoscitivo</strong></a></p>
