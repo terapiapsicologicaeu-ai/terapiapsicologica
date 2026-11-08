@@ -1,0 +1,30 @@
+<h1 class="align-center"><span style="color: #236fa1;">Psicoterapia Online e In Studio: </span><br><span style="color: #236fa1;">Flessibilità, Efficacia e Presenza Professionale.</span></h1>
+<p> </p>
+<p>Scegli la modalità più adatta alle tue esigenze logistiche, con la garanzia di un percorso efficace e protocolli rigorosi, <strong>ovunque tu sia</strong>.</p>
+<hr>
+<h3> </h3>
+<h3 class="align-center">Psicoterapia Online: Efficacia e Vantaggi Specifici</h3>
+<p> </p>
+<p>La <strong>psicoterapia online</strong> è uno strumento efficace, con studi che dimostrano che la sua efficacia non dipende necessariamente dalla presenza fisica. Manteniamo la stessa metodologia rigorosa e il medesimo impegno professionale.</p>
+<ul>
+<li><strong>Maggiore Flessibilità:</strong> Permette la continuità del percorso anche in condizioni logistiche complesse.</li>
+<li><strong>Accessibilità:</strong> Utile per chi vive lontano dallo studio o ha difficoltà di spostamento.</li>
+<li><strong>Anonimato e Privacy:</strong> Offre un ambiente familiare per condurre la seduta.</li>
+</ul>
+<hr>
+<h2> </h2>
+<h2 class="align-center">Trasparenza: I Protocolli e i Limiti</h2>
+<p>Un approccio serio richiede totale trasparenza. Mentre l'efficacia clinica è confermata, per garantire il successo della terapia online, sono richiesti <strong>protocolli rigorosi</strong>:</p>
+<p class="msg msg--highlight"><strong>La nostra competenza si esprime anche nella responsabilità etica di definire i confini.</strong></p>
+<ol>
+<li><strong>Ambiente Privato e Riservatezza:</strong> Garantire un luogo indisturbato è fondamentale.</li>
+<li><strong>Gestione Tecnica:</strong> Lavoreremo per affrontare proattivamente i potenziali problemi di connessione.</li>
+</ol>
+<hr>
+<h3> </h3>
+<h3 class="align-center">Terapia in Studio: Il Valore della Presenza</h3>
+<p>L'incontro <strong>in studio</strong> offre il valore della presenza fisica, del <em>setting</em> tradizionale e della gestione completa della comunicazione non verbale, fattori che per alcuni percorsi possono essere cruciali. <br><br><br><br></p>
+<address><strong>Dove Siamo:</strong> L'indirizzo dello studio di psicologia del Dott. Leonardo Corsetti è <strong><a href="https://goo.gl/maps/Uz38NKvG1Ew1JKEz7" target="_blank" rel="noopener noreferrer">Via Roma, 87 Macerata</a></strong>. </address><hr>
+<p> </p>
+<p class="align-center"><strong>Pronto a Scegliere?</strong> Stabiliremo insieme la modalità più efficace per le tue esigenze.</p>
+<p class="msg msg--highlight align-center"><a href="#INTERNAL_LINK#/page/958"><strong>Scegli la Modalità: Prenota il Colloquio Conoscitivo</strong></a></p>

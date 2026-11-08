@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://terapiapsicologica-es9.pages.dev/sitemap.xml
